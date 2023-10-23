@@ -126,7 +126,7 @@ Please adhere to this project's `code of conduct`.  See `code of conduct.md`
 
 - **I have more questions ? How do I contact you ?**
 
-    We are glad to have your interest in our work. Drop you message on kumaraghav079@gmail.com
+    We are glad to have your interest in our work. Drop your message on kumaraghav079@gmail.com
 
 
 ## Authors
