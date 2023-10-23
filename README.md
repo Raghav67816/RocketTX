@@ -10,19 +10,20 @@ RocketTX is here to help you out.
 
 Waiting till test launch to analyze your rocket motor can be time-taking. RocketTX is a software built for **Rocket Motor Test Stand**. 
 
-
-
-![App Screenshot](https://raw.githubusercontent.com/Raghav67816/RocketTX/main/Screenshots/1.png)
-
-![App Screenshot](https://raw.githubusercontent.com/Raghav67816/RocketTX/main/Screenshots/2.png)
-
-
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 ## Features
 
 - Open-Source & Lightweight
 - Real-time motor performance monitoring and graph plotting
 - Easy-to-use & Minimalistic
 - Post test analysis
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Raghav67816/RocketTX/main/Screenshots/1.png)
+
+![App Screenshot](https://raw.githubusercontent.com/Raghav67816/RocketTX/main/Screenshots/2.png)
 
 
 ## Installation
@@ -86,6 +87,49 @@ enp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 ```
 
-It will show all the adapters connected to your machine. Make sure to note the IP of the **WIRELESS ADAPTER**. That is in this case **192.168.x.x**
+It will show all the adapters connected to your machine. Make sure to note the IP of the **WIRELESS ADAPTER** or **ETHERNET ADAPTER**. That is in this case **192.168.x.x**
 
 Put in the config file after writing port in the listener option. This will start your broker on your network.
+
+> **_NOTE:_**  Make sure to connect both Test Stand and RocketTX client to same network.
+## Related
+
+We have built our own **Rocket Motor Test Stand**. Yes, and this software is for it. RocketTX Test Stand is built **open-source** means you can build it on your own using the provided designs, programs, scripts, circuit-diagrams. 
+
+It's open-source nature makes it open for improvements. So, that we all collaborate together to make it better.
+
+[RocketTX Test Stand Home Page](https://github.com/matiassingers/awesome-readme)
+
+
+## Contributing
+
+Open-source contribution is the only reason why RocketTX is open-source. We believe that learning and building together will make it more better.
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.  See `code of conduct.md`
+
+
+## FAQ
+
+- **For what platforms RocketTX is available ?**
+    
+    It is avaible for Ubuntu currently. If you want to use it on other platforms like Windows or Mac, please build it from source.
+
+- **Do I need to purchase the test stand for using it ?**
+    
+    No, it is not necessary to buy test stand from our website, you can just download the files provided, assemble them and use it for free.
+
+- **Where I can download test stand files ?**
+    
+    Test stand's resources are under testing phase. We will update the link here soon, once testing is completed.
+
+- **I have more questions ? How do I contact you ?**
+
+    We are glad to have your interest in our work. Drop you message on kumaraghav079@gmail.com
+
+
+## Authors
+
+- [@raghav67816](https://github.com/Raghav67816)
+
