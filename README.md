@@ -1,6 +1,8 @@
 
 # RocketTX
 
+![App Logo](https://raw.githubusercontent.com/Raghav67816/RocketTX/main/Screenshots/logo.png)
+
 Are you passionate about rockets ? Do you build them ? 
 I know you are done simulating your rocket motor in **OpenRocket** and you built your own. 
 
